@@ -1,4 +1,4 @@
-# Colored-Output-CPP
+# Colored Output in C++
 
 
 > A C++ source file just to show how can we change color of Background and Text in C++
