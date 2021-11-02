@@ -5,7 +5,7 @@
 
 > You can Also Download by [Clicking Here...](http://0xareeb.atwebpages.com/downloader.php?filename=color.cpp)
 
-# HOW TO USE:
+# How To Use:
 
 ---
 
