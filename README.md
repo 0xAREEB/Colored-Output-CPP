@@ -3,7 +3,7 @@
 
 > A C++ source file just to show how can we change color of Background and Text in C++
 
-> You can Also Download by [CLICKING HERE](http://0xareeb.atwebpages.com/downloader.php)
+> You can Also Download by [Clicking Here...](http://0xareeb.atwebpages.com/downloader.php?filename=color.cpp)
 
 # HOW TO USE:
 
